@@ -1,0 +1,12 @@
+syntax = "proto3";
+package psychefi.psyche.psyche;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/psyche-fi/psyche/x/psyche/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
+
